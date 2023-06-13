@@ -1,1 +1,2 @@
-# Customer Category Prediction using K Nearest Neighbors Algorithm
+# Customer Category Prediction
+### using K Nearest Neighbors Algorithm
